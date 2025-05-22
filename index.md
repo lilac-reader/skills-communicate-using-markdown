@@ -13,3 +13,8 @@ If you don't tell it a language it just puts the code in the block with no forma
 ```
 var newVar = "Testing the code.";
 ```
+# This is how you add a task list. The spaces are VERY important.
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
